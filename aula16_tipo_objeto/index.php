@@ -9,10 +9,10 @@ class Pessoa{
 
 
 
-$eu = new Pessoa();
+// $eu = new Pessoa();
 
-$eu->nome = 'Rian';
+// $eu->nome = 'Rian';
 
-echo $eu->nome, "<br>" ;
+// echo $eu->nome, "<br>" ;
 
-$eu->falar();
+// $eu->falar();
