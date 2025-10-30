@@ -15,9 +15,7 @@ while($contador <=30){
     echo $contador . '<br>';
     $contador++ ;
 
-
-
-
-
-    
+   
 }
+
+
