@@ -1,0 +1,13 @@
+<?php
+
+
+function teste(){
+
+    //código
+
+}
+
+
+
+
+
