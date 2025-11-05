@@ -20,3 +20,5 @@ foreach($dados as $chave => $valor){
     echo "$chave : $valor <br>";
 
 }
+
+
