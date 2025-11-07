@@ -13,3 +13,4 @@ foreach($animal as $valor){
     echo "$valor <br>" ;
 
 }
+
