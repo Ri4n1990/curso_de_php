@@ -20,11 +20,12 @@ class Programador extends Humano{
 
 }
 
-$ze = new Humano ;
 
-$ze->falar() ;
+// $ze = new Humano ;
+
+// $ze->falar() ;
 
 
-$matheus  = new Programador;
+// $matheus  = new Programador;
 
-echo $matheus->idade ;
+// echo $matheus->idade ;
